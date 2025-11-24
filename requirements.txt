@@ -1,9 +1,0 @@
-streamlit
-whisper
-openai-whisper
-moviepy
-fpdf
-google-generativeai
-python-dotenv
-torch
-numpy
